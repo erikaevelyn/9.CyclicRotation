@@ -1,0 +1,11 @@
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\bin\Debug\netcoreapp2.1\9.CyclicRotation.deps.json
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\bin\Debug\netcoreapp2.1\9.CyclicRotation.runtimeconfig.json
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\bin\Debug\netcoreapp2.1\9.CyclicRotation.runtimeconfig.dev.json
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\bin\Debug\netcoreapp2.1\9.CyclicRotation.dll
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\bin\Debug\netcoreapp2.1\9.CyclicRotation.pdb
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\obj\Debug\netcoreapp2.1\9.CyclicRotation.csprojAssemblyReference.cache
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\obj\Debug\netcoreapp2.1\9.CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\obj\Debug\netcoreapp2.1\9.CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\obj\Debug\netcoreapp2.1\9.CyclicRotation.AssemblyInfo.cs
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\obj\Debug\netcoreapp2.1\9.CyclicRotation.dll
+C:\Users\Intel i5\Desktop\UTN\PRACTICAS\CSharpExercises\9.CyclicRotation\obj\Debug\netcoreapp2.1\9.CyclicRotation.pdb
